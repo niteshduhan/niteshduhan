@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niteshduhan
-- Pursuing my Master's in Data science from Amity University
+- ✨ Pursuing my Master's in Data science from Amity University
 - 👀 I’m interested in Data Science and analytics 
 - 🌱 I did my Bachlors in Mathematics Hons from Delhi University 
 - 💞️ I’m looking to collaborate on Data science and Business analyst
