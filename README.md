@@ -31,28 +31,32 @@ Here’s what I’m cooking these days:
 
 ---
 
-## 🧠 My Tech Superpowers  
-I don’t believe in boring bullet points.  
-Here’s what I *actually* bring to the table:
+## 🧠 My Ongoing and Ancient Tech History   
 
 ### 🧮 Mathematics That Powers ML
 Linear Algebra • Real + Complex Analysis • Metric Spaces • ODEs  
 *(Yes… the scary stuff.)*
 
-### 💻 Programming & Tools
-Python • C++ • HTML • LaTeX • Git & GitHub • Streamlit
+### 💻 Programming & Tools  
+Python • SQL • C++ • HTML • LaTeX • Excel • Git • GitHub • SQLite  
+Pandas • NumPy • Matplotlib • Seaborn • scikit-learn  
+TensorFlow • Keras • Statsmodels  
+Streamlit • Power BI   
+ETL Processes • Data Pipelines
 
-### 🤖 Machine Learning & Data Science
-EDA • Feature Engineering • Regression & Classification • Time Series  
-Inferential Stats • Count & Categorical Modelling  
-Transformers • Word2Vec • TF-IDF • spaCy • NLTK
+### 🚀 Areas I Shine In  
+Here’s where I don’t just “work”… I **excel**:
 
-### 🚀 Areas I Shine In
-- Turning raw messy data into clean insights  
-- Explaining complex things in simple language  
-- Automating workflows  
-- Creating deployable ML apps  
-- Learning ridiculously fast
+- **Building complete ML pipelines** — from data cleaning to fully deployed models (including LSTMs and neural networks)  
+- **Making messy data behave** — preprocessing, feature engineering, normalization, handling outliers, scaling  
+- **Time-series forecasting that actually forecasts** — ARIMA, LSTM, stock & crypto volatility modelling  
+- **Deep Learning wizardry** — Neural Networks, RNNs, LSTMs built using TensorFlow/Keras and even *from scratch*  
+- **Statistical smartness** — hypothesis testing, ANOVA, confidence intervals, and business-driven statistical insights  
+- **Dashboarding like a pro** — Streamlit apps, Power BI, Tableau, and interactive visual analytics  
+- **Turning business problems into data-driven solutions** — real estate, financial markets, forecasting, and BI use cases  
+- **Explaining complex things in simple language** — because models matter only when people understand them  
+- **Soft skills that actually matter** — communication, collaboration, analytical thinking, and problem-solving  
+
 
 ---
 
@@ -71,20 +75,19 @@ Transformers, embeddings, classification, text preprocessing pipelines.
 ---
 
 ## 🎭 A Little More About Me  
-- I prioritize **reps over weight** — both in the gym and in coding.  
-- I’m 5'10" (178cm), 78kg — working towards **66–68kg** in the next 2 months.  
+- I prioritize **reps over weight** — both in the gym and in coding.   
 - I love learning — languages, accents, new tools, everything.  
 - My life right now is a loop:  
   **Code → Train → Learn → Repeat.**
 
 ---
 
-## 🤝 Let’s Connect & Build Something Cool  
-If you’re here, we’re already friends.
 
 📸 Instagram: **[@nitesh._duhan](https://www.instagram.com/nitesh._duhan)**  
+🔗 LinkedIn: **[niteshduhan-carp112](https://www.linkedin.com/in/niteshduhan-carp112)**  
 💼 Open for collaborations in Data Science, ML, NLP  
-📬 (Add your email here if you'd like)
+📬 Email ID: **niteshduhan686@gmail.com**
+
 
 ---
 
