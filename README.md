@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">🚀 Hey, I'm <strong>Nitesh Duhan</strong> — Turning Data Into Decisions, One Model at a Time</h1>
+<h1 align="center">🚀 Hey, I'm <strong>Nitesh Duhan</strong></h1>
 <p align="center">📊 Data Scientist • 🧠 ML Enthusiast • 🛠 Constant Builder • 🎧 Learner for Life</p>
 
 ---
