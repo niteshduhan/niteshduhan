@@ -44,7 +44,7 @@ TensorFlow • Keras • Statsmodels
 Streamlit • Power BI   
 ETL Processes • Data Pipelines
 
-### 🚀 Areas I Shine In  
+### SKILLS
 Here’s where I don’t just “work”… I **excel**:
 
 - **Building complete ML pipelines** — from data cleaning to fully deployed models (including LSTMs and neural networks)  
@@ -60,7 +60,7 @@ Here’s where I don’t just “work”… I **excel**:
 
 ---
 
-## 🌟 Featured Work (The Good Stuff)
+## 🌟 PROJECTs Work (The Good Stuff)
 ### 📌 **🏠 Melbourne House Price Prediction**  
 End-to-end ML project with full documentation, engineering, modelling and upcoming deployment.
 
