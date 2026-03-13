@@ -24,9 +24,9 @@
 
 ## About Me
 
-I'm a Data Scientist with a **B.Sc. (Hons.) Mathematics from Delhi University** and an **M.Sc. Data Science at Amity University** — which means I don't just apply ML, I understand the linear algebra and statistics underneath it.
+I'm a Data Scientist with a **B.Sc. (Hons.) Mathematics from Delhi University** and an **M.Sc. Data Science at Amity University** which means I don't just apply ML, I understand the linear algebra and statistics underneath it.
 
-I've shipped production AI systems: a **bilingual voice intelligence agent** for real-time lead qualification, a **Claude-powered automated design pipeline**, and a **hybrid NLP query engine** integrated with live Salesforce CRM data. I work across the full stack — from raw data ingestion and feature engineering to LLM orchestration and real-time deployment.
+I've shipped production AI systems: a **bilingual voice intelligence agent** for real-time lead qualification, a **Claude-powered automated design pipeline**, and a **hybrid NLP query engine** integrated with live Salesforce CRM data. I work across the full stack from raw data ingestion and feature engineering to LLM orchestration and real-time deployment.
 
 My approach: **experiment rigorously, ship cleanly, explain clearly.**
 
