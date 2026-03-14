@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Nitesh Duhan 👋</h1>
+<h1 align="center">Hi, I'm Nitesh Duhan </h1>
 
 <p align="center">
-  <b>Data Scientist · ML Engineer · LLM Systems Builder</b><br/>
+  <b>Data Scientist · ML Engineer · LLM Expert</b><br/>
   <sub>Production ML pipelines · AI at scale · Mathematics-first thinking</sub>
 </p>
 
@@ -98,7 +98,7 @@ loop          = ["Build → Break → Learn → Repeat"]
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 ### 📈 Bitcoin Price Forecasting — LSTM
 `TensorFlow/Keras` `Time-Series` `Google Colab` `525K+ records`
