@@ -38,7 +38,7 @@ loop          = ["Build → Break → Learn → Repeat"]
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack 
 
 **Core Languages & Tools**
 
